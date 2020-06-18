@@ -33,4 +33,5 @@ left = {
     \new Staff = "left" { \clef bass \left }
   >>
   \layout { }
+  \midi { }
 }

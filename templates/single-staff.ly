@@ -7,6 +7,7 @@
   arranger = "gle"
 }
 
+\score {
 \new Staff \with {
   instrumentName = Piano
 } {
@@ -17,4 +18,7 @@
   a''4 g''2. | d''4 f''2. |
   g''4 c'''4 a''4 g''4 | d''4 f''2. |
   
+}
+\layout { }
+\midi { }
 }

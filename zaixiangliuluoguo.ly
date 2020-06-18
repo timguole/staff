@@ -9,10 +9,11 @@
   arranger = "gle"
 }
 
+\score {
 \new Staff \with {
   instrumentName = Piano
 } {
-  \tempo 4 = 80
+  \tempo 4 = 120
   \clef "treble"
   \key a \minor
   \time 2/2
@@ -28,4 +29,7 @@
 	  { c''4 a''2. | }
 	  { d''4 c''2.}
   } \bar "|."
+}
+\layout { }
+\midi { }
 }
