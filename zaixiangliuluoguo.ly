@@ -1,8 +1,10 @@
-% Simple Chinese music template
+% 宰相刘罗锅插曲
+% 第二集：刘墉摘下斗笠，露出驼背，霞儿格格很伤心。
 
-\version "2.18.0"
+\version "2.20.0"
 \header {
-  title = "Zai Xiang Liu Luo Guo"
+  title = "伤感"
+  subtitle = "宰相刘罗锅插曲"
   composer = "Unknown"
   arranger = "gle"
 }
@@ -10,7 +12,7 @@
 \new Staff \with {
   instrumentName = Piano
 } {
-  \tempo 4 = 120
+  \tempo 4 = 80
   \clef "treble"
   \key a \minor
   \time 2/2
