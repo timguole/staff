@@ -1,1 +1,6 @@
-This is a collection of music staffs written by lilypond.
+This is a collection of music staffs written with lilypond.
+
+HOW TO USE
+Compile .ly file with lilypond
+    $ lilypond <source.ly>
+This will generate two files: a pdf and a midi
