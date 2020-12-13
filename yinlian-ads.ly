@@ -2,9 +2,9 @@
 
 \version "2.20.0"
 \header {
-  title = "银联广告曲"
-  subtitle = "青山一道同云雨"
-  composer = "Unknown"
+  title = "青山一道同云雨"
+  subtitle = "银联广告曲"
+  composer = "???"
   arranger = "gle"
 }
 
