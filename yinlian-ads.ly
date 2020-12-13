@@ -19,7 +19,7 @@
   % m1 m2
   g'8 f'8 ees'4. f'8 g'4 | c''4 bes'2. |
   % m3 m4
-  c''8 bes'8 g'4. g'8 | g'4 ees'4 f'2. | \break
+  c''8 bes'8 g'8 g'4.  g'4 | ees'4 f'2. | \break
   % m5 m6
   g'8 f'8 ees'4. f'8 g'4 | ees''4 c''2. |
   % m7 m8
