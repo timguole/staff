@@ -1,11 +1,11 @@
-% Canon in D by Pachelbel (yamaha demo)
+% Canon in D by Johann Pachelbel
 
 \version "2.20.0"
 
 \header {
   title = "Canon in D"
-  subtitle = "Yamaha Demo"
-  composer = "Pachelbel"
+  subtitle = "Piano solo"
+  composer = "Johann Pachelbel"
 }
 
 global = {
@@ -15,7 +15,7 @@ global = {
 }
 
 \paper {
-  #(set-paper-size "a6")
+  #(set-paper-size "a5")
 }
 
 right = {
@@ -70,7 +70,7 @@ right = {
   b'4 g'4 a'4 fis'4 |
 
   % m16
-  d'4 d''4 cis''16 d''16 e''8 d''8 <cis'' a'>8 |
+  d'4 d''4 cis''16 d''16 e''8 d''8 <cis'' a'>8\f |
 
   % m17
   d''8 cis''8 d''8 fis'8 a'8 b'8 a'8 g'8 |
@@ -123,7 +123,7 @@ right = {
   <g' b'>4 <g'' b''>4 <fis'' a''>4 d''4 |
 
   % m32
-  <e' b' d''>2 <e' a' cis''>2 |
+  <e' b' d''>2\> <e' a' cis''>2 \! |
 
   % m33
   r16 fis'32 a'32 d''4.( d''2) |
