@@ -23,7 +23,7 @@
   % m5 m6
   g'8 f'8 ees'4. f'8 g'4 | ees''4 c''2. |
   % m7 m8
-  ees''8 c''8 bes'8 bes'4 g'8 f'4 | ees'4 ees'2. | 
+  ees''8 c''8 bes'8 bes'4 g'8 f'4 | ees'4 ees'2. |
   \bar "|."
 }
 \layout { }
